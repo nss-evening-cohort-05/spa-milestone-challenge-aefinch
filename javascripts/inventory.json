@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+    	"make": "Toyota",
+    	"model": "Prius",
+    	"year": "2010",
+    	"price": "12999",
+    	"description": "This is an eco-friendly 2010 Toyota Prius with 60000 miles on it."
+    },
+    {
+    	"make": "Subaru",
+    	"model": "Outback",
+    	"year":"2012",
+    	"price":"14750",
+    	"description": "This 2012 Subaru Outback has only 35000 miles on it."
+    }
+  ]
+}
