@@ -18,4 +18,4 @@ This allows the user to view the current inventory and revise the car descriptio
 ### Contributors
 [Andrea Finch](https://github.com/aefinch)
 
-![inventory site](spa-milestone-challenge-aefinch/inventorySite.PNG)
+![inventory site](./inventorySite.PNG)
