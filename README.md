@@ -17,5 +17,3 @@ This allows the user to view the current inventory and revise the car descriptio
 
 ### Contributors
 [Andrea Finch](https://github.com/aefinch)
-
-![inventory site](./inventorySite.PNG)
