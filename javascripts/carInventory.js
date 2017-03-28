@@ -4,7 +4,7 @@ var CarLot = (function () {
   return {
     loadInventory: function (callback) {
       var inventoryLoader = new XMLHttpRequest();
-	  inventoryLoader.open("GET", "/javascripts/inventory.json");
+	  inventoryLoader.open("GET", "/inventory.json");
 	  inventoryLoader.send();
       inventoryLoader.addEventListener("load", function () {
 		  var data = JSON.parse(this.responseText);
