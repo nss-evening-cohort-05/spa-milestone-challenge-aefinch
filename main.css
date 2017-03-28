@@ -1,0 +1,7 @@
+.blackBorder {
+	border: 1px solid black;
+}
+.highlight {
+	border: 5px solid black;
+	background-color: lightBlue
+}
